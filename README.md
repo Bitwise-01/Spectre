@@ -56,6 +56,6 @@ $ python spectre.py -u https://facebook.com/login
 ```
 
 ### Disclaimers
- - Don't abuse this program, stay ethical
+ - Don't abuse this program, stay ethical.
  - This program will not working on every site.
  - Google will stop responing for a while if you over use it.
