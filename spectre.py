@@ -35,7 +35,7 @@ class Spectre(object):
 
  def get_url(self, name):
   call(['clear'])
-  print '[+] Resloving a url for:', name
+  print '[+] Resolving a url for:', name
   sleep(0.5)
   return engine(name).search()
 
