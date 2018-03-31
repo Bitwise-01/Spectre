@@ -10,6 +10,7 @@ install() {
 
  # update 
  apt-get update 
+ pip install --upgrade setuptools --user python
 
  # install essentials
  apt-get install qt5-default libqt5webkit5-dev build-essential python-lxml python-pip xvfb -y
